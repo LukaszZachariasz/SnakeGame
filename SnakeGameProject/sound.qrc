@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/sound">
+        <file>sound/game_music_sound.mp3</file>
+        <file>sound/game_over_sound.mp3</file>
+        <file>sound/catch_fruit_sound.mp3</file>
+        <file>sound/game_music_sound2.mp3</file>
+    </qresource>
+</RCC>

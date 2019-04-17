@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/themes">
+        <file>themes/Default/gameBackground.jpg</file>
+        <file>themes/Default/snakeSegment.jpg</file>
+        <file>themes/Default/appleTexture.jpg</file>
+        <file>themes/Default/bananaTexture.jpg</file>
+        <file>themes/Default/pineappleTexture.jpg</file>
+        <file>themes/Default/rockTexture.jpg</file>
+        <file>themes/Default/themeDefaultHover.png</file>
+        <file>themes/Default/themeDefaultNop.jpg</file>
+        <file>themes/Flat/appleTexture.jpg</file>
+        <file>themes/Flat/bananaTexture.jpg</file>
+        <file>themes/Flat/gameBackground.jpg</file>
+        <file>themes/Flat/pineappleTexture.jpg</file>
+        <file>themes/Flat/rockTexture.jpg</file>
+        <file>themes/Flat/snakeSegment.jpg</file>
+        <file>themes/Flat/themeFlatNop.jpg</file>
+        <file>themes/Flat/themeFlatHover.png</file>
+        <file>themes/Default/wallTexture.jpg</file>
+        <file>themes/Draft/appleTexture.jpg</file>
+        <file>themes/Draft/bananaTexture.jpg</file>
+        <file>themes/Draft/pineappleTexture.jpg</file>
+        <file>themes/Draft/rockTexture.jpg</file>
+        <file>themes/Draft/snakeSegment.jpg</file>
+        <file>themes/Draft/gameBackground.jpg</file>
+        <file>themes/Draft/themeDraftHover.png</file>
+        <file>themes/Draft/themeDraftNop.jpg</file>
+        <file>themes/Win95/appleTexture.jpg</file>
+        <file>themes/Win95/bananaTexture.jpg</file>
+        <file>themes/Win95/gameBackground.jpg</file>
+        <file>themes/Win95/pineappleTexture.jpg</file>
+        <file>themes/Win95/rockTexture.jpg</file>
+        <file>themes/Win95/snakeSegment.jpg</file>
+        <file>themes/Win95/themeWin95Nop.jpg</file>
+        <file>themes/Win95/themeWin95Hover.png</file>
+        <file>themes/title.png</file>
+        <file>themes/gameOver.png</file>
+        <file>themes/best.png</file>
+        <file>themes/your.png</file>
+        <file>themes/pause.png</file>
+    </qresource>
+</RCC>

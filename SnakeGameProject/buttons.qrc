@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>buttons/pushStartGameNop.png</file>
+        <file>buttons/pushStartGamePressed.png</file>
+        <file>buttons/pushRestartHover.png</file>
+        <file>buttons/pushRestartNop.png</file>
+        <file>buttons/pushOptionsHover.png</file>
+        <file>buttons/pushOptionsNop.png</file>
+        <file>buttons/pushExitGameHover.png</file>
+        <file>buttons/pushExitGameNop.png</file>
+        <file>buttons/cancelOptionsNop.png</file>
+        <file>buttons/cancelOptionsPressed.png</file>
+        <file>buttons/okOptionsNop.png</file>
+        <file>buttons/okOptionsPressed.png</file>
+        <file>buttons/themeOptionsNop.png</file>
+        <file>buttons/themeOptionsPressed.png</file>
+        <file>buttons/pushMenuNop.png</file>
+        <file>buttons/pushMenuHover.png</file>
+    </qresource>
+</RCC>
